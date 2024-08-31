@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/output.dart"
+      "program": "bin/2_variable.dart"
     },
   ]
 }
