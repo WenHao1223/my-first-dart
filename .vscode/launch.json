@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/8_switch.dart"
+      "program": "bin/9_loops.dart"
     },
   ]
 }
