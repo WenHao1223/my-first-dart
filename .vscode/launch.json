@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/3_type_casting.dart"
+      "program": "bin/4_operation.dart"
     },
   ]
 }
