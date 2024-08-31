@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/9_loops.dart"
+      "program": "bin/10_nested_loops.dart"
     },
   ]
 }
