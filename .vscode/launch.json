@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/11_control_statements.dart"
+      "program": "bin/12_degree.dart"
     },
   ]
 }
