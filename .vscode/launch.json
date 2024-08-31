@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/12_degree.dart"
+      "program": "bin/13_number_methods.dart"
     },
   ]
 }
