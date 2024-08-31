@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/6_if_statements.dart"
+      "program": "bin/7_conditional_op.dart"
     },
   ]
 }
