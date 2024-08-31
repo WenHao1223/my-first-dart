@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/4_operation.dart"
+      "program": "bin/5_assignment_op.dart"
     },
   ]
 }
