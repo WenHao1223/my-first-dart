@@ -8,7 +8,8 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/14_string_methods.dart"
+      "program": "bin/basics/21_maps.dart",
+      // "console": "terminal"
     },
   ]
 }
