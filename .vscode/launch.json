@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/basics/21_maps.dart",
+      "program": "bin/functions/10_typedefs.dart",
       // "console": "terminal"
     },
   ]
