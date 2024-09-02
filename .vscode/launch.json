@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/functions/10_typedefs.dart",
+      "program": "bin/oop/19_extension.dart",
       // "console": "terminal"
     },
   ]
