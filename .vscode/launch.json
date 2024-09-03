@@ -8,7 +8,7 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/oop/19_extension.dart",
+      "program": "bin/async/3_async_await.dart",
       // "console": "terminal"
     },
   ]
