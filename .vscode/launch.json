@@ -8,8 +8,8 @@
       "name": "Dart",
       "type": "dart",
       "request": "launch",
-      "program": "bin/async/5_file.dart",
-      // "console": "terminal"
+      "program": "bin/end/3_dart_application.dart",
+      "console": "terminal"
     },
   ]
 }
